@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-25T09:08:29Z" name="Default suite" finished-at="2022-06-25T09:09:07Z" duration-ms="38254">
+    <groups>
+    </groups>
+    <test started-at="2022-06-25T09:08:29Z" name="Default test" finished-at="2022-06-25T09:09:07Z" duration-ms="38254">
+      <class name="webdriver_new.flipkart">
+        <test-method is-config="true" signature="testcase()[pri:0, instance:webdriver_new.flipkart@7cb502c]" started-at="2022-06-25T09:08:29Z" name="testcase" finished-at="2022-06-25T09:08:39Z" duration-ms="9692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method signature="testcase1()[pri:0, instance:webdriver_new.flipkart@7cb502c]" started-at="2022-06-25T09:08:39Z" name="testcase1" finished-at="2022-06-25T09:09:07Z" duration-ms="28150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method is-config="true" signature="testcase2()[pri:0, instance:webdriver_new.flipkart@7cb502c]" started-at="2022-06-25T09:09:07Z" name="testcase2" finished-at="2022-06-25T09:09:07Z" duration-ms="350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+      </class> <!-- webdriver_new.flipkart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

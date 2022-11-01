@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="4" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="21914" started-at="2022-04-30T15:00:44Z" finished-at="2022-04-30T15:01:05Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="21914" started-at="2022-04-30T15:00:44Z" finished-at="2022-04-30T15:01:05Z">
+      <class name="webdriver_new.class1">
+        <test-method status="PASS" signature="testcase0()[pri:0, instance:webdriver_new.class1@4524411f]" name="testcase0" is-config="true" duration-ms="6183" started-at="2022-04-30T15:00:44Z" finished-at="2022-04-30T15:00:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase0 -->
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:webdriver_new.class1@4524411f]" name="testcase1" duration-ms="11453" started-at="2022-04-30T15:00:50Z" finished-at="2022-04-30T15:01:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="testcase2()[pri:0, instance:webdriver_new.class1@4524411f]" name="testcase2" is-config="true" duration-ms="4245" started-at="2022-04-30T15:01:01Z" finished-at="2022-04-30T15:01:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+      </class> <!-- webdriver_new.class1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite name="Suite (0)" duration-ms="18733" started-at="2022-04-30T15:01:06Z" finished-at="2022-04-30T15:01:24Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="18733" started-at="2022-04-30T15:01:06Z" finished-at="2022-04-30T15:01:24Z">
+      <class name="webdriver_new.playing_with_alerts">
+        <test-method status="PASS" signature="testcase()[pri:0, instance:webdriver_new.playing_with_alerts@5c18298f]" name="testcase" is-config="true" duration-ms="6935" started-at="2022-04-30T15:01:06Z" finished-at="2022-04-30T15:01:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase3()[pri:0, instance:webdriver_new.playing_with_alerts@5c18298f]" name="testcase3" duration-ms="11798" started-at="2022-04-30T15:01:13Z" finished-at="2022-04-30T15:01:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+      </class> <!-- webdriver_new.playing_with_alerts -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+</testng-results>
